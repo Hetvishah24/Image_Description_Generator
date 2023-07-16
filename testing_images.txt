@@ -1,0 +1,17 @@
+mountain_94.jpg
+viaduct_115
+baseballfield_54
+airport_343
+airport_230
+park_47
+forest_78
+port_158
+desert_88
+bridge_107
+park_132
+farmland_249
+resort_155
+square_179
+stadium_78
+sparseresidential_291
+storagetanks_253
